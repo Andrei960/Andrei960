@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Andrei960
-- 👀 I’m interested in Unity and c++
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: The F#### Best
-- ⚡ Fun fact: I'm stupid
+- 👀 I’m interested in c++
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on C++
+- 📫 How to reach me idk
+- 😄 Pronouns: Stadium/Car
+- ⚡ Fun fact: I like Trackmania
 
 <!---
 Andrei960/Andrei960 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
